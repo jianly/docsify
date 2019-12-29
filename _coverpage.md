@@ -1,4 +1,4 @@
-<img width="150px" height="150px" style="border-radius: 50%;border: 2px solid #888" src="./_media/miaoqijiang.png">
+<img width="150px" height="150px" style="border-radius: 50%;border: 2px solid #888" src="https://blog-githb.oss-cn-beijing.aliyuncs.com/miaoqijiang.png">
 
 ## <font color='#fff'>猫七酱的Express教程
 
